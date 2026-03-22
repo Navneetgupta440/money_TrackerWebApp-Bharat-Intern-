@@ -81,9 +81,7 @@ Learning full-stack development
 Navneet Gupta
 💼 Full Stack Developer | Java Developer | Data Analyst
 
-📧 Email: indiagupta33@gmail.com
-
-📞 Phone: 7317567350
+📧 Email: indianavneetgupta33@gmail.com
 
 🔗 GitHub:
 👉 https://github.com/Navneetgupta440
