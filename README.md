@@ -1,4 +1,4 @@
-🚀 Money Tracker Web App
+🚀 Production-ready Full Stack Money Tracker built with MERN stack
 💼 Bharat Intern Full Stack Project
 
 🔗 GitHub Repository:
@@ -97,8 +97,3 @@ If you like this project:
 
 This project is licensed under the MIT License
 
-💡 Pro Tip (for your GitHub profile)
-
-Add this line at the top of your repo for extra impact:
-
-🚀 Production-ready Full Stack Money Tracker built with MERN stack
